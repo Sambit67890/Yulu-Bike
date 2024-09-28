@@ -1,0 +1,11 @@
+#banner{
+    /* border:2px solid red; */
+    padding-top:139px;
+    height: 147.5vh;
+    width: 100%;
+    
+   }
+#banner img{
+    height: 100%;
+    width: 100%;
+}
